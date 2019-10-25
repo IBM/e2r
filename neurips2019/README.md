@@ -1,4 +1,4 @@
-# NeurIPS 2019 paper on Quantum Embedding of the Knowledge.
+# NeurIPS 2019 paper on Quantum Embedding of the Knowledge
 
 The purpose of this repository is to open-source (under Apache 2.0 License) all material relavant to our NeurIPS 2019 paper:
 > Dinesh Garg, Shajith Ikbal, Santosh K Srivastava, Harit Vishwakarma, Hima Karanam, L Venkata Subramaniam, "Quantum Embedding of Knowledge for Reasoning", to appear in Proc. of Neural Information Processing Systems (NeurIPS) 2019, Vancouver, Canada, 2019.
