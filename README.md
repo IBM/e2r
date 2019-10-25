@@ -1,6 +1,6 @@
 # Quantum Embedding of the Knowledge
 
-A novel approach proposed (by Knowledge & Reasoning Group at IBM Research AI, India) to embed symbolic Knowledge Base (KB), inspired by the theory of Quantum Logic. 
+A novel approach proposed (by Knowledge & Reasoning Group at IBM Research AI, India) to embed symbolic Knowledge Base (KB), inspired by the theory of Quantum Logic. The goal is to be able to replicate the logical structure of the KB and symbolic logical reasoning in the embedding space. We call this approach E2R (Embed2Reason).
 
 
 This work is first accepted for publication at **NeurIPS 2019 Conference** with paper details as below: 
