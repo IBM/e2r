@@ -1,0 +1,14 @@
+13
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#takesCourse 0
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#doctoralDegreeFrom 1
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#publicationAuthor 2
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#undergraduateDegreeFrom 3
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#teacherOf 4
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#worksFor 5
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#mastersDegreeFrom 6
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#memberOf 7
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#advisor 8
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#subOrganizationOf 9
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#teachingAssistantOf 10
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#headOf 11
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#degreeFrom 12

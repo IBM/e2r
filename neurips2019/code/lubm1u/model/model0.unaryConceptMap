@@ -1,0 +1,20 @@
+19
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Course 0
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#University 1
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Publication 2
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#AssociateProfessor 3
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#GraduateStudent 4
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#UndergraduateStudent 5
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#ResearchGroup 6
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#TeachingAssistant 7
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#AssistantProfessor 8
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#ResearchAssistant 9
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#FullProfessor 10
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Department 11
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#GraduateCourse 12
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Lecturer 13
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Professor 14
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Faculty 15
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Student 16
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Person 17
+http://swat.cse.lehigh.edu/onto/univ-bench.owl#Organization 18

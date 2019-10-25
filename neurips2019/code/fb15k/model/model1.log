@@ -1,0 +1,7 @@
+Train: nIters=1000
+Retrain: nIters=1000
+Retrain: nIters=1000
+Retrain: nIters=6000
+Retrain: nIters=3000
+Retrain: nIters=6000
+Retrain: nIters=9000
