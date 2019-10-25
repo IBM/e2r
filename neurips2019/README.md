@@ -8,3 +8,4 @@ Quantum embedding is a novel approach, proposed by the Knowledge & Reasoning Gro
 
 Details about the sub-folders are as below:
   * **code** contains code and experimental setup as used for our NeurIPS 2019 work submission
+  * **presentation** contains presentation slides describing the approach, experimental evaluation and the results.
