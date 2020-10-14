@@ -18,4 +18,4 @@ This work is first accepted for publication at **NeurIPS 2020 Conference** with 
 
 The purpose of this repository is to open-source material relavant to our Quantum embedding work (under Apache 2.0 License). Details about the current set of folders are given below:
 * **neurips2019** contains code, experimental setup and presentation (in PDF) of our neurips 2019 paper work.
-* **neurips2020** contains code, experimental setup and presentation (in PDF) of our neurips 2019 paper work.
+* **neurips2020** contains code and experimental setup of our neurips 2020 paper work.
