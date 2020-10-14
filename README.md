@@ -11,7 +11,7 @@ This work is first accepted for publication at **NeurIPS 2019 Conference** with 
 
 # Inductive Quantum Embedding (NeurIPS 2020)
 
-In this work we extend our NeurIPS 2019 paper. The original QE idea, is limited to the transductive (not inductive) setting. Moreover, the original QE scheme runs quite slow on real applications involving millions of entities. This work alleviates both of these key limitations. As an application, we show that one can achieve state-of-the-art performance on the well-known NLP task of fine-grained entity type classification by using the inductive QE approach.
+In this work we extend our NeurIPS 2019 paper. The original Quantum Embedding (QE) idea, is limited to the transductive (not inductive) setting. Moreover, the original QE scheme runs quite slow on real applications involving millions of entities. This work alleviates both of these key limitations. As an application, we show that one can achieve state-of-the-art performance on the well-known NLP task of fine-grained entity type classification by using the inductive QE approach.
 
 This work is first accepted for publication at **NeurIPS 2020 Conference** with paper details as below: 
 > Santosh Srivastava, Dinesh Khandelwal, Dhiraj madan, Dinesh Garg, Hima Karanam, L Venkat Subramaniam, "Inductive Quantum Embedding", _to appear in Proc. of Neural Information Processing Systems (NeurIPS) 2020_, Virtual-only Conference.
